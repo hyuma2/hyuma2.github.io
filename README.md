@@ -1,2 +1,5 @@
-# hyuma2.github.io
-test website
+<!DOCTYPE html
+<html>
+  <head></head>
+  <body>test website</body>
+  </html>
